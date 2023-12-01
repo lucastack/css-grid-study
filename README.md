@@ -1,4 +1,4 @@
-This repo contains a landing page for an e-commerce site. Did it for learning purposes (CSS/flexbox)
+This repo contains a landing page for an e-commerce site. Did it to practice the basics
 
 This is how it looks:
 
